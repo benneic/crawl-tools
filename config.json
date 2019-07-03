@@ -1,0 +1,21 @@
+{
+    "From": [
+    ],
+    "Include": [
+    ],
+    "Exclude": [
+        "^(https?://)?www\\.example\\.com/.*"
+    ],
+
+    "MaxDepth": 0,
+
+    "WaitTime": "10ms",
+    "Connections": 30,
+
+    "UserAgent": "Crawler/1.0",
+    "RobotsUserAgent": "Crawler",
+    "RespectNofollow": true,
+
+    "Header": [
+    ]
+}
